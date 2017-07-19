@@ -1,0 +1,31 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color:orange;
+  font-family: 'Merriweather', serif;
+}
+
+header {
+  background-color: white;
+}
+
+section {
+  width: 65%;
+  display: inline-block;
+  margin-right: 20px;
+}
+
+article {
+  width: auto;
+}
+
+/*article > img {
+  width: 50%;
+}*/
+
+aside {
+  background-color: blue;
+  width: 30%;
+  display: inline-block;
+  float: right;
+}
